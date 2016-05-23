@@ -1,0 +1,7 @@
+[Davide,Dariol,mela,5,0,E59?9E<;>8?81B<,0];
+[Alfio,Missaglia,pera,5,0,E59>:=45?4<;2?:2,50];
+[Gino,Buonvino,sera,10000,70,D7<?9@46?;@81@6,0];
+[Assunto,Licenziato,marghera,0,0,=17>:?64>7C>9D?,0];
+[Guido,Senzapatente,pantera,-500.0123,10,abcdefghijklmnop,100];
+[Gianni,Bargianni,maniera,485,55,=17>:?6:@9?=4@8,0];
+[Gatto,Pardo,burghera,10000,72,=17>:?6:@9?=4@8,0];
